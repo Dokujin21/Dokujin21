@@ -5,7 +5,6 @@
 - 📫 How to reach me dokujin21.github.io/cv 💻
 - 🤝 Thanks for stopping by! 🎉🥳🎊
 - 👋 Take care! 
-- 
 
 <!---
 Dokujin21/Dokujin21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
